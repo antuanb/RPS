@@ -1,0 +1,6 @@
+AUTHOR:
+    Antuan Byalik & Brendan Avent
+    Department of Computer Science, Virginia Polytechnic Institute and State University
+    
+DESCRIPTION
+    Uses database of rock-paper-scissors games and a combination of naive bayes and KNN algorithms to predict future moves.
